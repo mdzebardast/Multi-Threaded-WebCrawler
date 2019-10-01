@@ -1,0 +1,4 @@
+com/finology/webcrawler/App.class
+com/finology/webcrawler/ParsePage.class
+com/finology/db/Sqlitedb.class
+com/finology/webcrawler/ParseManager.class
